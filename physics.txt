@@ -1,0 +1,8 @@
+Litio 10
+Celsius 9
+Fosforo 8
+Calcio 8
+Oxigeno 1
+Hidrogeno 6
+Potasio 7
+Aluminio 5
